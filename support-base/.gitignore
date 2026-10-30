@@ -1,0 +1,11 @@
+/target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Maven local bootstrap/cache
+.mvn/wrapper/dists/
